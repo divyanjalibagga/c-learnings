@@ -1,2 +1,2 @@
-# c-learnings
-learning with edx
+# c++-learnings
+learning with apnacollege
